@@ -6,7 +6,8 @@ Bu proje, PHP kullanılarak oluşturulmuş responsive bir kitap sitesidir. Site,
 
 ![13](https://github.com/ZekiAkkan/E-Kitapcim/assets/88339263/69b2bbbe-c043-40ea-9a51-a0554c3ae9e8)
 
-![Figure_1](https://github.com/user-attachments/assets/c4feee6c-96d9-467a-9b0c-309e78476228)
+![1](https://github.com/user-attachments/assets/ccee9c27-bd57-4162-a364-65d221768ac2)
+
 
 
 ## Özellikler
